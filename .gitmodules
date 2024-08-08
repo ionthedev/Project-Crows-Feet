@@ -4,4 +4,4 @@
 
 [submodule "phantom-engine"]
     path = phantom-engine
-    url = https://github.com/ionthedev/phantom-engine/
+    url = https://github.com/ionthedev/phantom-engine
