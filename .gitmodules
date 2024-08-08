@@ -1,0 +1,7 @@
+[submodule "Fear-the-Crow"]
+    path = Fear-the-Crow
+    url = https://github.com/ionthedev/Fear-the-Crow
+
+[submodule "phantom-engine"]
+    path = phantom-engine
+    url = https://github.com/ionthedev/phantom-engine/
