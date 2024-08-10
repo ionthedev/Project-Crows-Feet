@@ -8,8 +8,8 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Add subdirectories for PhantomEngine and FearTheCrow
-add_subdirectory(PhantomEngine)
-add_subdirectory(Fear-The-Crow)
+add_subdirectory(phantom-engine)
+add_subdirectory(Fear-the-Crow)
+add_subdirectory(phantom-works)
 
-
-
+#target_link_libraries(ProjectCrowsFeet PRIVATE PhantomEngine PhantomWorks FearTheCrow)
